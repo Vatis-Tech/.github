@@ -1,5 +1,14 @@
 # Vatis Tech SRL
 
+## About Vatis Tech
+
+If you are just curios to learn more about Vatis Tech, please refer to these links:
+
+- Landing page for Vatis Tech: [https://vatis.tech/](https://vatis.tech/)
+- About Vatis Tech: [https://vatis.tech/about](https://vatis.tech/about)
+- Vatis Tech newsroom: [https://vatis.tech/press](https://vatis.tech/press)
+
+
 ## For Developers
 
 If you are a developer, the following links might interest you:
@@ -10,14 +19,6 @@ If you are a developer, the following links might interest you:
 - Accepted file formats: [https://vatis.tech/formats](https://vatis.tech/formats)
 - Check the pricing: [https://vatis.tech/pricing](https://vatis.tech/pricing)
 - Join the team: [https://vatis.tech/careers](https://vatis.tech/careers)
-
-## About Vatis Tech
-
-If you are just curios to learn more about Vatis Tech, please refer to these links:
-
-- Landing page for Vatis Tech: [https://vatis.tech/](https://vatis.tech/)
-- About Vatis Tech: [https://vatis.tech/about](https://vatis.tech/about)
-- Vatis Tech newsroom: [https://vatis.tech/press](https://vatis.tech/press)
 
 ## Social Media
 
