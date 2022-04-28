@@ -1,9 +1,5 @@
 # Vatis Tech SRL
 
-Speech recognition infrastructure, with open source projects for live and static ASR, API for speech-to-text and a web platform for managing custom models.
-
-<div align="center"><img src="https://raw.githubusercontent.com/Vatis-Tech/assets/main/images/dark_logo_white_background_4000x4000.jpg" alt="Vatis Tech SRL"/></div>
-
 ## For Developers
 
 If you are a developer, the following links might interest you:
